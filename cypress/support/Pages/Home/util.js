@@ -6,6 +6,8 @@ const url_home = ''
 
 class CriarTarefa {
 //aaaaaaaaaa
+
+//Adição de dados 
 }
 
 export default new CriarTarefa();
