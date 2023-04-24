@@ -5,7 +5,7 @@ const url_home = ''
 
 
 class CriarTarefa {
-
+    cy.get().tech();
     }
 
 }
