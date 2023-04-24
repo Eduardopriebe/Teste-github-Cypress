@@ -5,8 +5,6 @@ const url_home = ''
 
 
 class CriarTarefa {
-    acessarhome(){
-        cy.visit(el.url)
 
     }
 
